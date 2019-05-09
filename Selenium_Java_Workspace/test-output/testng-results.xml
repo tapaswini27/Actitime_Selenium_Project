@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="26780" started-at="2019-05-04T18:09:32Z" finished-at="2019-05-04T18:09:59Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="26780" started-at="2019-05-04T18:09:32Z" finished-at="2019-05-04T18:09:59Z">
+      <class name="com.actitime.customertest.CustomerTest">
+        <test-method status="PASS" signature="configBeforeSuite()[pri:0, instance:com.actitime.customertest.CustomerTest@3e6fa38a]" name="configBeforeSuite" is-config="true" duration-ms="19" started-at="2019-05-04T18:09:32Z" finished-at="2019-05-04T18:09:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBeforeSuite -->
+        <test-method status="PASS" signature="configBC()[pri:0, instance:com.actitime.customertest.CustomerTest@3e6fa38a]" name="configBC" is-config="true" duration-ms="7327" started-at="2019-05-04T18:09:32Z" finished-at="2019-05-04T18:09:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBC -->
+        <test-method status="PASS" signature="configBM()[pri:0, instance:com.actitime.customertest.CustomerTest@3e6fa38a]" name="configBM" is-config="true" duration-ms="10599" started-at="2019-05-04T18:09:39Z" finished-at="2019-05-04T18:09:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBM -->
+        <test-method status="PASS" signature="createCustomerTest()[pri:0, instance:com.actitime.customertest.CustomerTest@3e6fa38a]" name="createCustomerTest" duration-ms="5723" started-at="2019-05-04T18:09:50Z" finished-at="2019-05-04T18:09:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createCustomerTest -->
+        <test-method status="PASS" signature="configAM()[pri:0, instance:com.actitime.customertest.CustomerTest@3e6fa38a]" name="configAM" is-config="true" duration-ms="594" started-at="2019-05-04T18:09:55Z" finished-at="2019-05-04T18:09:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAM -->
+        <test-method status="PASS" signature="configAC()[pri:0, instance:com.actitime.customertest.CustomerTest@3e6fa38a]" name="configAC" is-config="true" duration-ms="2485" started-at="2019-05-04T18:09:56Z" finished-at="2019-05-04T18:09:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAC -->
+      </class> <!-- com.actitime.customertest.CustomerTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
